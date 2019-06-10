@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="791cdb39-36f6-4f25-be37-a8e22aadd3ed" name="Default Changelist" comment="" />
+    <list default="true" id="791cdb39-36f6-4f25-be37-a8e22aadd3ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/.idea/higher_mathematics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/pytest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/pytest/test_one_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/pytest/test_one_min_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/pytest/test_two_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/pytest/test_two_demo_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/pytest/test_two_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/pytest/test_two_min_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../higher_mathematics/study" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liaoPython/.idea/liaoPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liaoPython/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liaoPython/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liaoPython/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../liaoPython/vtype/stringcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/数据预处理/sinx_show.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -123,6 +145,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,11 +184,13 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,21 +220,16 @@
             </path>
             <path>
               <item name="vediotask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vediotask" type="462c0819:PsiDirectoryNode" />
-              <item name="数据预处理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vediotask" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/irisdata" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -368,6 +390,9 @@
       <module name="vediotask" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据预处理" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -418,11 +443,13 @@
       <workItem from="1559109986132" duration="670000" />
       <workItem from="1559147017056" duration="1573000" />
       <workItem from="1559179995156" duration="323000" />
+      <workItem from="1559989640264" duration="524000" />
+      <workItem from="1560177298033" duration="1395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21707000" />
+    <option name="totallyTimeSpent" value="23626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,8 +462,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3118741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1702432" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -451,12 +479,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.55903614" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.55903614" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.92349726" visible="true" weight="0.41988555" />
-      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.07650273" side_tool="true" visible="true" weight="0.41988555" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.91927713" visible="true" weight="0.41988555" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.08072289" side_tool="true" visible="true" weight="0.41988555" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -664,7 +692,7 @@
     <entry file="file://$PROJECT_DIR$/数据预处理/sinx_show.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
